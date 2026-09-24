@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - arcade
 directors_cut: https://herebefrogs.com/dont-look-back
 post: https://medium.com/@herebefrogs/dont-look-back-a-js13kgames-2019-postmortem-a0028d8acef2
 # See github.com/js13kGames/hello-world for supported frontmatter
